@@ -1,7 +1,8 @@
 # signup-form
 https://hswinata.github.io/signup-form/
 
-The Sign-Up Form project presents a user-friendly and visually appealing web application that allows users to register for an exclusive experience. As a junior full-stack engineer, this project showcases my skills in HTML, CSS, and JavaScript while providing an engaging and interactive platform for user registration.
+The Sign-Up Form project was meticulously crafted during the early stages of my full-stack bootcamp journey. This project serves as a testament to my growth as an entry-level full-stack engineer and highlights the skills I developed in HTML, CSS, and JavaScript. It also demonstrates my ability to create a user-friendly web application that offers an aesthetically pleasing and interactive platform for user registration.
+
 
 ## Features
 1. Input Validation:
